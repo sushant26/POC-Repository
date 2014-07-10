@@ -1,0 +1,6 @@
+<html>
+<body>
+<p>This is file one in QA folder</p>
+<p>New content added</p>
+</body>
+</html>
