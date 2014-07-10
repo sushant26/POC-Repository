@@ -1,0 +1,7 @@
+<apex:page>
+<apex:pageBlock>
+<apex:pageBlockSection>
+<apex:outputText value="This is second file in Stagging"></apex:outputText>
+</apex:pageBlockSection>
+</apex:pageBlock>
+</apex:page>
