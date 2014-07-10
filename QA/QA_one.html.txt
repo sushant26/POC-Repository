@@ -1,5 +1,6 @@
 <html>
 <body>
 <p>This is file one in QA folder</p>
+<p> This text is to be added in AD folders QA_one file 
 </body>
 </html>
