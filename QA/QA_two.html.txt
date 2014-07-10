@@ -1,5 +1,6 @@
 <html>
 <body>
 <p>This is file 2 in QA folder</p>
+<p>This text is newly added </p>
 </body>
 </html>
