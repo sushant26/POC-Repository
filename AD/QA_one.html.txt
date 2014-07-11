@@ -1,6 +1,5 @@
 <html>
 <body>
 <p>This is file one in QA folder</p>
-<p>check for am</p>
 </body>
 </html>
