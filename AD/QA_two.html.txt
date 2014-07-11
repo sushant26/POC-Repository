@@ -1,0 +1,8 @@
+<html>
+<header>
+This is my header
+</header>
+<body>
+<p>This is file 2 in QA folder</p>
+</body>
+</html>
