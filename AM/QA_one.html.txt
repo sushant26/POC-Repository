@@ -5,4 +5,7 @@ this is my QA 1
 <body>
 <p>This is file one in QA folder</p>
 </body>
+<footer>
+<p>added footer</p>
+</footer>
 </html>
